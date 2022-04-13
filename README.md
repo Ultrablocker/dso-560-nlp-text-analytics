@@ -5,10 +5,7 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
-<<<<<<< HEAD
-=======
 * [Week 4](https://usc.zoom.us/rec/share/FE4QW2WEFjaVjMu2nX28r2ZsCPBzuP1vMe-zjrNjer4wI6gew4Nh6I2sTxMAODtX.AvfJKTLJXZ9LBKSN?startTime=1649208421000)
->>>>>>> upstream/main
 * [Week 3](https://usc.zoom.us/rec/share/pPVNZN0WvOjemQQTksSryQdjfud8K9A07n1kTrETM3vUhY2TuSmtSZllzETEo-lv.Ttq6RSnJl_LYPMx4?startTime=1648603737000)
 * [Week 2](https://usc.zoom.us/rec/share/dJdXUo2GCjDrkI-DmEoFS7VVcTdtLFhmxgeslB-PGQaKDh0v0npBvMxrkeuWl06e.3-BBKkhmmMnb4AfG?startTime=1647999047000)
 * [Week 1](https://usc.zoom.us/rec/share/WkQz2xhXt9FLfdW91XY_lZJu1fjyVvwfpZJ8u7Up0WeIPKuULlvNcDf4pdVKql6Z.aC_H890ztXp8imgk?startTime=1646792734000)
@@ -19,6 +16,7 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Week 2 (March 21st)
 - [Cosine Similarity, PMI, Collocation and TF-IDF](https://colab.research.google.com/drive/1DiVzTkmcvwF0b5Hn_L-YZSkQj-t_hDVU?usp=sharing)
 - [Additional Practice with Information Retrieval and Scoring Metrics](https://colab.research.google.com/drive/1Ls90FpBt4UA3epTJJPuvnVgEAyBrJrPt#scrollTo=t7QRI4ZnkdXq)
@@ -28,6 +26,19 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Spark Word Count and Regex Examples](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5232729486082968/1540886924384845/4388619205012290/latest.html)
 - [Regex Practice Part II](https://colab.research.google.com/drive/1TqZjdnwHfSYq5UWA5WPBytdqqw-RdlJd?usp=sharing)
 =======
+=======
+## Week 5 (April 11th)
+### Notebooks
+- [word2vec Part I](https://colab.research.google.com/drive/1CIAe8e36GTvjw_mytI1_mlFJPqQZU8qB?usp=sharing)
+- [word2vec Part II](https://colab.research.google.com/drive/1_Hht2TlvDT5QFZ-XGUX1LHPJF3A0JUPO)
+- [Classification](https://colab.research.google.com/drive/1KKJ2kFGXNYiqa8MDtTsLDTJ6cKXCdlJN?usp=sharing)
+- [Dimensionality Reduction](https://colab.research.google.com/drive/1Q18c1ngdkaGAe4qnAnPJ6qv6tZR7AtSy#scrollTo=DUXVl4y74Jzm)
+- [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx#scrollTo=m5KWA9b0FShn)
+- [Toy Torch RNN Example](https://colab.research.google.com/drive/1sZOuotJLZ8ENkZ_EB8BZXoCmS7svnvj3?usp=sharing)
+- [Using RNNs and LSTMs](https://colab.research.google.com/drive/1G6bxy1OlHPeVo6zAs8TxvN5du9PHhZQf?usp=sharing)
+- [Deep Learning with Word Embeddings](https://colab.research.google.com/drive/1CtQr7n6zp_mDJYpXNRSc3Fqg1JGqN194?usp=sharing)
+
+>>>>>>> 2660df0d326a4e4ad5fd786c158870eb191f6f0c
 ## Week 4 (April 4th)
 ### Notebooks
 - [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/11GHEFTywu_uFWFjtecf-mC5PeeXHcEVM?usp=sharing)
